@@ -1,0 +1,5 @@
+//
+// Prefix header for all source files of the 'BspTree' target in the 'BspTree' project.
+//
+
+#define _MAC_OSX  1

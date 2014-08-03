@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkLists", "LinkLists.vcproj", "{C305A6E6-72E0-4BEE-80C9-4A8DA3110FB0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C305A6E6-72E0-4BEE-80C9-4A8DA3110FB0}.Debug.ActiveCfg = Debug|Win32
+		{C305A6E6-72E0-4BEE-80C9-4A8DA3110FB0}.Debug.Build.0 = Debug|Win32
+		{C305A6E6-72E0-4BEE-80C9-4A8DA3110FB0}.Release.ActiveCfg = Release|Win32
+		{C305A6E6-72E0-4BEE-80C9-4A8DA3110FB0}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

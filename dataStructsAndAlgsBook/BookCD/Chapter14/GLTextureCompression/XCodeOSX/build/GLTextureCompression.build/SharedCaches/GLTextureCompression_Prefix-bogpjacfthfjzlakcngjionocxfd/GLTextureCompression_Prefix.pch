@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'GLTextureCompression' target in the 'GLTextureCompression' project.
+//
+
+#include <Carbon/Carbon.h>
+#define _MAC_OSX  1

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoublyLinkList", "DoublyLinkList.vcproj", "{A4B4C89C-35F1-4711-B716-04D9D7BBB17D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A4B4C89C-35F1-4711-B716-04D9D7BBB17D}.Debug.ActiveCfg = Debug|Win32
+		{A4B4C89C-35F1-4711-B716-04D9D7BBB17D}.Debug.Build.0 = Debug|Win32
+		{A4B4C89C-35F1-4711-B716-04D9D7BBB17D}.Release.ActiveCfg = Release|Win32
+		{A4B4C89C-35F1-4711-B716-04D9D7BBB17D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

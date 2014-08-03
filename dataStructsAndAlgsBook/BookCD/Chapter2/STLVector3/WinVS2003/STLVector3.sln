@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STLVector3", "STLVector3.vcproj", "{EF7BBC6E-4F92-42EC-A2FA-55FF0234B24C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EF7BBC6E-4F92-42EC-A2FA-55FF0234B24C}.Debug.ActiveCfg = Debug|Win32
+		{EF7BBC6E-4F92-42EC-A2FA-55FF0234B24C}.Debug.Build.0 = Debug|Win32
+		{EF7BBC6E-4F92-42EC-A2FA-55FF0234B24C}.Release.ActiveCfg = Release|Win32
+		{EF7BBC6E-4F92-42EC-A2FA-55FF0234B24C}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

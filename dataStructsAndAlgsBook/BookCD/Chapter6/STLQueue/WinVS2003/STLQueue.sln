@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STLQueue", "STLQueue.vcproj", "{0F6E62BF-1471-4E3A-B65E-8FC324502183}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0F6E62BF-1471-4E3A-B65E-8FC324502183}.Debug.ActiveCfg = Debug|Win32
+		{0F6E62BF-1471-4E3A-B65E-8FC324502183}.Debug.Build.0 = Debug|Win32
+		{0F6E62BF-1471-4E3A-B65E-8FC324502183}.Release.ActiveCfg = Release|Win32
+		{0F6E62BF-1471-4E3A-B65E-8FC324502183}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

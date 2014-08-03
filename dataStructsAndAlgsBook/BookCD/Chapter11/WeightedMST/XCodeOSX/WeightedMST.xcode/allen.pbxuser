@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 = {
+		activeBuildStyle = 014CEA460018CE2711CA2923;
+		activeExecutable = 9FF956450BBF3E16005C210E;
+		activeTarget = 8DD76F620486A84900D96B5E;
+		addToTargets = (
+			8DD76F620486A84900D96B5E,
+		);
+		codeSenseManager = 9FF956490BBF3E1C005C210E;
+		executables = (
+			9FF956450BBF3E16005C210E,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					133,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 197082646;
+			PBXWorkspaceStateSaveDate = 197082646;
+		};
+		perUserProjectItems = {
+			9FF9565E0BBF3F4C005C210E = 9FF9565E0BBF3F4C005C210E;
+			9FF9566E0BBF4038005C210E = 9FF9566E0BBF4038005C210E;
+		};
+		sourceControlManager = 9FF956480BBF3E1C005C210E;
+		userBuildSettings = {
+		};
+	};
+	8DD76F620486A84900D96B5E = {
+		activeExec = 0;
+		executables = (
+			9FF956450BBF3E16005C210E,
+		);
+	};
+	9FF956450BBF3E16005C210E = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = WeightedMST;
+		shlibInfoDictList_v2 = (
+		);
+		sourceDirectories = (
+		);
+	};
+	9FF956480BBF3E1C005C210E = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	9FF956490BBF3E1C005C210E = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	9FF9564A0BBF3E26005C210E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3066}}";
+			sepNavSelRange = "{729, 0}";
+			sepNavVisRect = "{{0, 307}, {720, 433}}";
+			sepNavWindowFrame = "{{153, 139}, {759, 562}}";
+		};
+	};
+	9FF9564B0BBF3E26005C210E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 854}}";
+			sepNavSelRange = "{1200, 34}";
+			sepNavVisRect = "{{0, 421}, {720, 433}}";
+			sepNavWindowFrame = "{{176, 118}, {759, 562}}";
+		};
+	};
+	9FF9565E0BBF3F4C005C210E = {
+		comments = "instantiated from `void Graph<T>::DisplayMST(std::string&) [with T = char]'";
+		fRef = 9FF9564A0BBF3E26005C210E;
+		isa = PBXTextBookmark;
+		rLen = 1;
+		rLoc = 190;
+		rType = 1;
+	};
+	9FF9566E0BBF4038005C210E = {
+		fRef = 9FF9564A0BBF3E26005C210E;
+		isa = PBXTextBookmark;
+		name = "Graphs.h: operator ==";
+		rLen = 0;
+		rLoc = 729;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 291;
+	};
+}

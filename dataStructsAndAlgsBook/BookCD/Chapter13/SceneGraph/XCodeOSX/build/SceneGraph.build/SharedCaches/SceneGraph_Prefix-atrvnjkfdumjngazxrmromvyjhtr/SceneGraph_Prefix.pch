@@ -1,0 +1,5 @@
+//
+// Prefix header for all source files of the 'SceneGraph' target in the 'SceneGraph' project.
+//
+
+#define _MAC_OSX  1
