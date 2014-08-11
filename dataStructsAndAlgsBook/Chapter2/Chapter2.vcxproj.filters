@@ -13,5 +13,63 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Arrays">
+      <UniqueIdentifier>{0ff0a6a5-ea92-4ef7-99ee-5e3830ce2437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ArrayTemplate">
+      <UniqueIdentifier>{ac11c0cc-e2b1-465c-89a2-d99a90f62b8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Bitarray">
+      <UniqueIdentifier>{62b4fd9c-797a-4341-83e6-4a39bf3af377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Bitset">
+      <UniqueIdentifier>{6d465ed7-460e-46ce-b55c-0b77fc430f85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\STLVector3">
+      <UniqueIdentifier>{282f1fcc-8bc4-4ff0-9587-d2f362964778}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\STLVector">
+      <UniqueIdentifier>{bd68dd9d-c240-4b9d-9db1-734364eb4561}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\STLVector2">
+      <UniqueIdentifier>{eac9df9e-feec-4caf-897c-83973798478c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Valarray">
+      <UniqueIdentifier>{eced8ac2-921f-4d4b-89e9-022941fecafc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Arrays\main.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTemplate\main.cpp">
+      <Filter>Source Files\ArrayTemplate</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitarray\main.cpp">
+      <Filter>Source Files\Bitarray</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitset\main.cpp">
+      <Filter>Source Files\Bitset</Filter>
+    </ClCompile>
+    <ClCompile Include="STLVector\main.cpp">
+      <Filter>Source Files\STLVector</Filter>
+    </ClCompile>
+    <ClCompile Include="STLVector2\main.cpp">
+      <Filter>Source Files\STLVector2</Filter>
+    </ClCompile>
+    <ClCompile Include="STLVector3\main.cpp">
+      <Filter>Source Files\STLVector3</Filter>
+    </ClCompile>
+    <ClCompile Include="Valarray\main.cpp">
+      <Filter>Source Files\Valarray</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayTemplate\Arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitarray\BitArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
